@@ -2,11 +2,13 @@
 **Useful Batch Scripts for Windows Automation**
 
 ![Author](https://img.shields.io/badge/Author-Abdelrahman--Elnahrawy-blue?style=for-the-badge&logo=github)
-![Language](https://img.shields.io/badge/Language-Batch-orange?style=for-the-badge&logo=windows)
+![Language](https://img.shields.io/badge/Terminal-Batch-orange?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 ![Batch](https://img.shields.io/badge/Shell-Batch-orange?logo=windows&style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue?logo=windows&style=flat-square)
 ![Terminal](https://img.shields.io/badge/Terminal-CMD-lightgrey?style=flat-square)
+
 A collection of robust, production-ready `.bat` scripts designed to simplify file management, project indexing, and bulk operations on Windows systems.
 
 ---
